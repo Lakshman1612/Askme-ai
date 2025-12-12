@@ -1,19 +1,19 @@
-# ChatBot Application Made with Node.js, React, OpenAI, and ChatGPT
+# 🌟 AskMe AI — Modern Multi-Chat AI Assistant
 
 ## Dependencies
 ### Backend
 * [OpenAI](https://openai.com/)
-* [ChatGPT](https://platform.openai.com/)
-* [Readline](https://nodejs.org/api/readline.html)
-* [Nodejs](https://nodejs.org/en)
+* [NodeJS](https://nodejs.org/en)
+* [LowDB](https://npm.io/package/lowdb)
+* [Nanoid](https://www.npmjs.com/package/nanoid)
 
 ### Frontend
 * [React](https://react.dev/)
 * [Vite](https://vitejs.dev/)
 
 ## Installation
-* Clone this repo `https://github.com/Aklilu-Mandefro/chatbot-application-in-react`
-* Navigate into the repo `cd chatbot-application-in-react`
+* Clone this repo `https://github.com/Lakshman1612/Askme-ai.git`
+* Navigate into the repo `cd chatbot-application`
 
 * Navigate into the `backend` folder `cd backend`
 * Install the dependencies ``npm install``
@@ -28,8 +28,7 @@
 
 *That will open the project on your default browser: http://127.0.0.1:5173/. You can now chat with the AI from your browser*
 
-## Final Preview of The ChatBot
- <img src="https://i.imgur.com/DdGQLC0.png" alt="final output">
+
 
 ## Please give this repo a ⭐ if you found it helpful.
 
